@@ -1,5 +1,5 @@
-## **Rapport TP – Premiers pas avec les systèmes multi‑agents (JADE)  
-Ping‑Pong entre deux agents, exécution sous Arch Linux + VS Code**
+## Rapport TP – Premiers pas avec les systèmes multi‑agents (JADE)  
+**Ping‑Pong entre deux agents, exécution sous Arch Linux + VS Code**
 
 ### **1. Objectif du TP**
 
